@@ -13,4 +13,7 @@
     <li>
         <a href="<?= URLROOT; ?>/Lessen/addLesson">Les toevoegen</a>
     </li>
+    <li>
+        <a href="<?= URLROOT; ?>/Vehicles/addLesson">Instructeurs in dienst</a>
+    </li>
 </ul>
